@@ -5,7 +5,7 @@
 - 🔁 Interoperability between chains is my focus
 - 🏛 Decentralised governance interests me
 - 🤓 I like finance, macro-economic policy and money markets.
-- 📫 Reach me twitter or check out my Portfolio.
+- 📫 Reach me on twitter or check out my Portfolio.
 - 🌻 This account is new, but I've been around a while (@s4ilormoon)
 
 <!---

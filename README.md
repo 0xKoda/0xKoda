@@ -1,8 +1,11 @@
 - 👋 Hi, I’m @0xKoda
 - 👀 I’m interested in all things cryptocurrency.
-- 🌱 I’m currently learning Solidity, CosmoWasm
+- 🌱 I’m experienced in Solidity, and learning CosmWasm IBC 
 - 💞️ I’m looking to collaborate on Defi Projects 
-- 📫 How to reach me twitter.
+- 🔁 Interoperability between chains is my focus
+- 🏛 Decentralised governance interests me
+- 🤓 I like finance, macro-economic policy and money markets.
+- 📫 Reach me twitter or check out my Portfolio.
 
 <!---
 0xKoda/0xKoda is a ✨ 

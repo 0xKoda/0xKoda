@@ -6,6 +6,7 @@
 - 🏛 Decentralised governance interests me
 - 🤓 I like finance, macro-economic policy and money markets.
 - 📫 Reach me twitter or check out my Portfolio.
+- 🌻 This account is new, but I've been around a while (@s4ilormoon)
 
 <!---
 0xKoda/0xKoda is a ✨ 

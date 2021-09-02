@@ -7,7 +7,7 @@
 - 🤓 I like finance, macro-economic policy and money markets.
 - 📫 Reach me on twitter or check out my Portfolio.
 - 🌻 This account is new, but I've been around a while (@s4ilormoon)
-
+- 🥷 [CodeWars Profile](www.codewars.com/r/PVnGMg)
 <!---
 0xKoda/0xKoda is a ✨ 
 --->

@@ -5,9 +5,8 @@
 - 🔁 Interoperability between chains is my focus
 - 🏛 Decentralised governance interests me
 - 🤓 I like finance, macro-economic policy and money markets.
-- 📫 Reach me on twitter or check out my Portfolio.
-- 🌻 This account is new, but I've been around a while (@s4ilormoon)
-- 🥷 [CodeWars Profile](https://www.codewars.com/users/0xKoda)
+- 📫 Reach me on twitter or discord
+
 <!---
 0xKoda/0xKoda is a ✨ 
 --->

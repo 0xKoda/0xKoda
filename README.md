@@ -5,8 +5,8 @@
 - 🔁 Interoperability between chains is my focus
 - 🏛 Decentralised governance interests me
 - 🤓 I like finance, macro-economic policy and money markets.
+- 🔐 Big on security, InfoSec <> OpSec Maxi
 - 📫 Reach me on twitter or discord
 
-<!---
-0xKoda/0xKoda is a ✨ 
---->
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=glitch&text1=Koda&width=800&height=400)](https://github.com/Akshay090/svg-banners)

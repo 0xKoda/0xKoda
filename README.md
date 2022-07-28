@@ -1,7 +1,3 @@
-# Koda
-
-
-
 <img align="center" src="https://i.imgur.com/4XHwdF2.png"  />
 <p align="center" class="head" >👷 Buildr, 🛡️Sentinel, 🧑🏻‍🔬Researcher </p>
 

@@ -2,7 +2,7 @@
 <p align="center" class="head" >👷 Buildr, 🛡️Sentinel, 🧑🏻‍🔬Researcher </p>
 
 ### Interests:
-
+- 🛡️ Just an Android securing DeFi
 - 🌱 Cyber Security, OSINT, digital forensics
 - 💞️  Experienced in fullstack development
 - 🧰 [Smart Contacts, Reactive WebApps, Forensic Greppers]
@@ -18,6 +18,8 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKoda&layout=compact)
 
 </div>
+
+
 
 
 

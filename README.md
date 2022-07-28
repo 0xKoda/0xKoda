@@ -11,7 +11,7 @@
 - 🔐 Security is my passion
 - 📫 Reach me on twitter or discord
 
-<p align="center" class="head" > *Androids avant-garde...*</p>
+*<p align="center" class="head" > Androids avant-garde...</p>*
 
 <div align="center">
 

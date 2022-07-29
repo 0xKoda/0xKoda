@@ -8,7 +8,7 @@
 - 🧰 [Smart Contacts, Reactive WebApps, Forensic Greppers]
 - 🔁  Decentralised finance excites me.
 - 🤓 I enjoy code, macro-economic policy and money markets.
-- 🔐 Security is my passion
+- 🔐 Cyber Intelligence is my passion
 - 📫 Reach me on twitter or discord
 
 *<p align="center" class="head" > Androids avant-garde...</p>*

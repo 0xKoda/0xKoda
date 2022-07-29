@@ -19,8 +19,6 @@
 
 </div>
 
-![rrevfacing](https://user-images.githubusercontent.com/88812262/181665878-3b9d0796-48f8-4c8c-b772-629b52624a0a.png)
-
 
 
 

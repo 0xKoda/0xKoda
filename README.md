@@ -6,7 +6,7 @@
 - 🌱 Cyber Security, OSINT, digital forensics
 - 💞️  Experienced in fullstack development
 - 🧰 [Smart Contacts, Decentralized Applications, Forensic Greppers]
-- 🔁  Decentralised finance excites me.
+- 🔁 Permissionless infra advocate.
 - 🤓 I enjoy code, macro-economic policy and money markets.
 - 🔐 Cyber Intelligence is my passion
 - 📫 Reach me on twitter or discord

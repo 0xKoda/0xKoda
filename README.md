@@ -1,11 +1,11 @@
 <img align="center" src="https://i.imgur.com/4XHwdF2.png"  />
-<p align="center" class="head" >👷 Buildr, 🛡️Sentinel, 🧑🏻‍🔬Researcher </p>
+<p align="center" class="head" >👷 Buildr, 🛡️ Sentinel, 🧑🏻‍🔬 Researcher </p>
 
 ### Interests:
 - 🛡️ Just an Android securing DeFi
 - 🌱 Cyber Security, OSINT, digital forensics
 - 💞️  Experienced in fullstack development
-- 🧰 [Smart Contacts, Reactive WebApps, Forensic Greppers]
+- 🧰 [Smart Contacts, Decentralized Applications, Forensic Greppers]
 - 🔁  Decentralised finance excites me.
 - 🤓 I enjoy code, macro-economic policy and money markets.
 - 🔐 Cyber Intelligence is my passion

@@ -5,9 +5,10 @@
 - 🛡️ Android securing DeFi
 - 💞️ Fullstack developer with a passion for cryptography and security
 - 🌱 Specialty: Cyber Security, OSINT, digital forensics and E2E RTC
-- 🧰 Focus: [Smart Contacts, Decentralized Applications, Forensic Greppers]
+- 🧰 Focus: Smart Contacts, Decentralized Applications, Blockchain Forensics
 - 🔁 Permissionless infrastructure advocate.
 - 🤓 Enjoy macro-economic policy and money markets.
+- 🧑‍🎓 Applied Cryptography & Electrical Engineering
 - 🎖️ Previosly: DoD 
 - 📫 Reach me on twitter or discord
 

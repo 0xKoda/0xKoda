@@ -1,13 +1,13 @@
 <img align="center" src="https://i.imgur.com/4XHwdF2.png"  />
-<p align="center" class="head" >👷 Buildr, 🛡️ Sentinel, 🧑🏻‍🔬 Researcher </p>
+<p align="center" class="head" >👷 Buildr, 🛡️ Sentinel, 🧑🏻‍🔬 Cypherpunk </p>
 
 ### Interests:
-- 🛡️ Just an Android securing DeFi
-- 🌱 Cyber Security, OSINT, digital forensics
-- 💞️  Experienced in fullstack development
+- 🛡️ Cypherpunk Android securing DeFi
+- 💞️ Fullstack developer with a passion for cryptography and security
+- 🌱 Cyber Security, OSINT, digital forensics and E2E RTC
 - 🧰 [Smart Contacts, Decentralized Applications, Forensic Greppers]
 - 🔁 Permissionless infra advocate.
-- 🤓 I enjoy code, macro-economic policy and money markets.
+- 🤓 Enjoy macro-economic policy and money markets.
 - 🔐 Cyber Intelligence is my passion
 - 📫 Reach me on twitter or discord
 

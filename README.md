@@ -1,10 +1,9 @@
-<img align="center" src="https://i.imgur.com/4XHwdF2.png"  />
+<img align="center" src="https://c.tenor.com/JmpPGHmsHnQAAAAC/dbz-android17.gif"  />
 <p align="center" class="head" >👷 Buildr, 🛡️ Sentinel, 🧑🏻‍🔬 Cypherpunk </p>
 
 ### Interests:
-- 🛡️ Android securing DeFi Smart Contracts
 - 💞️ Fullstack developer with a passion for cryptography & security intelligence 
-- 🌱 Specialty: Smart Contracts: Yield agg, Vaults and economic design.
+- 🌱 Smart Contracts: Vaults, Yield agg, and economic design.
 - 🔐 Security: Cybersecurity analyst, OSINT analysis, blockchain & digital forensics, E2E encrypted RTC
 - 🧰 Focus: Smart Contacts, Decentralized Applications, Blockchain Forensics
 - 🔁 Permissionless infrastructure advocate

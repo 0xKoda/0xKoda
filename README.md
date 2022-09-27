@@ -1,5 +1,8 @@
+<div align="center">
 <img align="center" src="https://c.tenor.com/JmpPGHmsHnQAAAAC/dbz-android17.gif"  />
+  </div>
 <p align="center" class="head" >👷 Buildr, 🛡️ Sentinel, 🧑🏻‍🔬 Cypherpunk </p>
+ 
 
 ### Interests:
 - 💞️ Fullstack developer with a passion for cryptography & security intelligence 

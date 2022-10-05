@@ -17,11 +17,7 @@
 
 *<p align="center" class="head" > Androids avant-garde...</p>*
 
-<div align="center">
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xKoda&layout=compact)
-
-</div>
 
 
 

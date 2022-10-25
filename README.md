@@ -5,7 +5,7 @@
  
 
 ### Interests:
-- 💞️ Former SigsInt turned fullstack developer with a passion for cryptography & security intelligence 
+- 💞️ Former CyberSec turned fullstack developer with a passion for cryptography & security intelligence 
 - 🌱 Smart Contracts: focus on circular economic design and security.
 - 🔐 Security Services: CyberSecurity, OSINT analysis, blockchain & digital forensics, E2E encrypted RTC
 - 🧰 Focus: Smart Contacts, Decentralized Applications, Blockchain Forensics

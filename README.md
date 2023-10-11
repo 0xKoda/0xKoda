@@ -1,9 +1,8 @@
 ### Interests:
 - 💞️ CTI analyst, prev fullstack developer with a passion for cryptography & security intelligence
-- ⚠️ Experienced GCR consultancy
-- 🧑‍🎓 Education: Electrical Engineering & Applied Cryptography
+- ⚠️ Experienced GCR consultancy and threat hunting
 - 🎖️ Previosly: DoD 
-- 📫 Reach me on twitter, discord or element
+- 📫 Reach me on twitter
 
 
 
